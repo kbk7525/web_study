@@ -4,7 +4,7 @@ import { API_KEY, API_URL, IMAGE_BASE_URL } from '../../Config';
 import GridCards from '../commons/GridCards';
 import MainImage from '../LandingPage/Sections/MainImage';
 import MovieInfo from './Sections/MovieInfo';
-import Favorite from './Sections/Favorite'
+import Favorite from './Sections/Favorite';
 
 function MovieDetail(props) {
 
